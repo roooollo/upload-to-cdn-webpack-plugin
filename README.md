@@ -7,7 +7,7 @@
 
 # upload-to-cdn-webpack-plugin
 
-Copies individual files or entire directories, which already exist, to the build directory.
+Compressed and sent to the specified address.
 
 ## Getting Started
 
