@@ -1,0 +1,370 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CopyPlugin basic should work with multi compiler mode: assets 1`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin basic should work with multi compiler mode: assets 2`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin basic should work with multi compiler mode: errors 1`] = `Array []`;
+
+exports[`CopyPlugin basic should work with multi compiler mode: errors 2`] = `Array []`;
+
+exports[`CopyPlugin basic should work with multi compiler mode: warnings 1`] = `Array []`;
+
+exports[`CopyPlugin basic should work with multi compiler mode: warnings 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: assets 1`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: assets 2`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: assets 3`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: assets 4`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: errors 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: errors 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: errors 3`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: errors 4`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: warnings 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: warnings 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: warnings 3`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache and multi compiler mode: warnings 4`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: assets 1`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: assets 2`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: errors 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: errors 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: warnings 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "filesystem" cache: warnings 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: assets 1`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: assets 2`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: errors 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: errors 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: warnings 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "memory" cache: warnings 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "transform" option: assets 1`] = `
+Object {
+  "new0.txt": "new",
+  "new1-2.txt": "newadded1",
+  "new1.txt": "newadded1",
+  "new2.txt": "newadded2",
+  "new3.txt": "newadded3",
+  "new4.txt": "newbaz",
+  "new5.txt": "newbaz",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "transform" option: assets 2`] = `
+Object {
+  "new0.txt": "new",
+  "new1-2.txt": "newadded1",
+  "new1.txt": "newadded1",
+  "new2.txt": "newadded2",
+  "new3.txt": "newadded3",
+  "new4.txt": "newbaz",
+  "new5.txt": "newbaz",
+}
+`;
+
+exports[`CopyPlugin cache should work with the "transform" option: errors 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "transform" option: errors 2`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "transform" option: warnings 1`] = `Array []`;
+
+exports[`CopyPlugin cache should work with the "transform" option: warnings 2`] = `Array []`;
+
+exports[`CopyPlugin logging should logging when "from" is a directory: logs 1`] = `
+Object {
+  "logs": Array [
+    "'to' option '.' determinated as 'dir'",
+    "'to' option '.' determinated as 'dir'",
+    "'to' option '.' determinated as 'dir'",
+    "'to' option '.' determinated as 'dir'",
+    "added './fixtures/directory' as a context dependency",
+    "added './fixtures/directory/.dottedfile' as a file dependency",
+    "added './fixtures/directory/directoryfile.txt' as a file dependency",
+    "added './fixtures/directory/nested/deep-nested/deepnested.txt' as a file dependency",
+    "added './fixtures/directory/nested/nestedfile.txt' as a file dependency",
+    "begin globbing './fixtures/directory/**/*'...",
+    "determined './fixtures/directory' is a directory",
+    "determined that './fixtures/directory/.dottedfile' should write to '.dottedfile'",
+    "determined that './fixtures/directory/directoryfile.txt' should write to 'directoryfile.txt'",
+    "determined that './fixtures/directory/nested/deep-nested/deepnested.txt' should write to 'nested/deep-nested/deepnested.txt'",
+    "determined that './fixtures/directory/nested/nestedfile.txt' should write to 'nested/nestedfile.txt'",
+    "finished to adding additional assets",
+    "finished to process a pattern from 'directory' using './fixtures/directory' context to '.'",
+    "found './fixtures/directory/.dottedfile'",
+    "found './fixtures/directory/directoryfile.txt'",
+    "found './fixtures/directory/nested/deep-nested/deepnested.txt'",
+    "found './fixtures/directory/nested/nestedfile.txt'",
+    "getting stats for './fixtures/directory'...",
+    "read './fixtures/directory/.dottedfile'",
+    "read './fixtures/directory/directoryfile.txt'",
+    "read './fixtures/directory/nested/deep-nested/deepnested.txt'",
+    "read './fixtures/directory/nested/nestedfile.txt'",
+    "reading './fixtures/directory/.dottedfile'...",
+    "reading './fixtures/directory/directoryfile.txt'...",
+    "reading './fixtures/directory/nested/deep-nested/deepnested.txt'...",
+    "reading './fixtures/directory/nested/nestedfile.txt'...",
+    "starting to add additional assets...",
+    "starting to process a pattern from 'directory' using './fixtures' context",
+    "writing '.dottedfile' from './fixtures/directory/.dottedfile' to compilation assets...",
+    "writing 'directoryfile.txt' from './fixtures/directory/directoryfile.txt' to compilation assets...",
+    "writing 'nested/deep-nested/deepnested.txt' from './fixtures/directory/nested/deep-nested/deepnested.txt' to compilation assets...",
+    "writing 'nested/nestedfile.txt' from './fixtures/directory/nested/nestedfile.txt' to compilation assets...",
+    "written '.dottedfile' from './fixtures/directory/.dottedfile' to compilation assets",
+    "written 'directoryfile.txt' from './fixtures/directory/directoryfile.txt' to compilation assets",
+    "written 'nested/deep-nested/deepnested.txt' from './fixtures/directory/nested/deep-nested/deepnested.txt' to compilation assets",
+    "written 'nested/nestedfile.txt' from './fixtures/directory/nested/nestedfile.txt' to compilation assets",
+  ],
+}
+`;
+
+exports[`CopyPlugin logging should logging when "from" is a file: logs 1`] = `
+Object {
+  "logs": Array [
+    "'to' option '.' determinated as 'dir'",
+    "added './fixtures/file.txt' as a file dependency",
+    "begin globbing './fixtures/file.txt'...",
+    "determined './fixtures/file.txt' is a file",
+    "determined that './fixtures/file.txt' should write to 'file.txt'",
+    "finished to adding additional assets",
+    "finished to process a pattern from 'file.txt' using './fixtures' context to '.'",
+    "found './fixtures/file.txt'",
+    "getting stats for './fixtures/file.txt'...",
+    "read './fixtures/file.txt'",
+    "reading './fixtures/file.txt'...",
+    "starting to add additional assets...",
+    "starting to process a pattern from 'file.txt' using './fixtures' context",
+    "writing 'file.txt' from './fixtures/file.txt' to compilation assets...",
+    "written 'file.txt' from './fixtures/file.txt' to compilation assets",
+  ],
+}
+`;
+
+exports[`CopyPlugin logging should logging when "from" is a glob: logs 1`] = `
+Object {
+  "logs": Array [
+    "'to' option '.' determinated as 'dir'",
+    "'to' option '.' determinated as 'dir'",
+    "'to' option '.' determinated as 'dir'",
+    "added './fixtures/directory' as a context dependency",
+    "added './fixtures/directory/directoryfile.txt' as a file dependency",
+    "added './fixtures/directory/nested/deep-nested/deepnested.txt' as a file dependency",
+    "added './fixtures/directory/nested/nestedfile.txt' as a file dependency",
+    "begin globbing './fixtures/directory/**'...",
+    "determined that './fixtures/directory/directoryfile.txt' should write to 'directory/directoryfile.txt'",
+    "determined that './fixtures/directory/nested/deep-nested/deepnested.txt' should write to 'directory/nested/deep-nested/deepnested.txt'",
+    "determined that './fixtures/directory/nested/nestedfile.txt' should write to 'directory/nested/nestedfile.txt'",
+    "finished to adding additional assets",
+    "finished to process a pattern from 'directory/**' using './fixtures' context to '.'",
+    "found './fixtures/directory/directoryfile.txt'",
+    "found './fixtures/directory/nested/deep-nested/deepnested.txt'",
+    "found './fixtures/directory/nested/nestedfile.txt'",
+    "getting stats for './fixtures/directory/**'...",
+    "read './fixtures/directory/directoryfile.txt'",
+    "read './fixtures/directory/nested/deep-nested/deepnested.txt'",
+    "read './fixtures/directory/nested/nestedfile.txt'",
+    "reading './fixtures/directory/directoryfile.txt'...",
+    "reading './fixtures/directory/nested/deep-nested/deepnested.txt'...",
+    "reading './fixtures/directory/nested/nestedfile.txt'...",
+    "starting to add additional assets...",
+    "starting to process a pattern from 'directory/**' using './fixtures' context",
+    "writing 'directory/directoryfile.txt' from './fixtures/directory/directoryfile.txt' to compilation assets...",
+    "writing 'directory/nested/deep-nested/deepnested.txt' from './fixtures/directory/nested/deep-nested/deepnested.txt' to compilation assets...",
+    "writing 'directory/nested/nestedfile.txt' from './fixtures/directory/nested/nestedfile.txt' to compilation assets...",
+    "written 'directory/directoryfile.txt' from './fixtures/directory/directoryfile.txt' to compilation assets",
+    "written 'directory/nested/deep-nested/deepnested.txt' from './fixtures/directory/nested/deep-nested/deepnested.txt' to compilation assets",
+    "written 'directory/nested/nestedfile.txt' from './fixtures/directory/nested/nestedfile.txt' to compilation assets",
+  ],
+}
+`;
+
+exports[`CopyPlugin logging should logging when 'to' is a function: logs 1`] = `
+Object {
+  "logs": Array [
+    "'to' option 'newFile.txt' determinated as 'file'",
+    "added './fixtures/file.txt' as a file dependency",
+    "begin globbing './fixtures/file.txt'...",
+    "determined './fixtures/file.txt' is a file",
+    "determined that './fixtures/file.txt' should write to 'newFile.txt'",
+    "finished to adding additional assets",
+    "finished to process a pattern from 'file.txt' using './fixtures' context to 'newFile.txt'",
+    "found './fixtures/file.txt'",
+    "getting stats for './fixtures/file.txt'...",
+    "read './fixtures/file.txt'",
+    "reading './fixtures/file.txt'...",
+    "starting to add additional assets...",
+    "starting to process a pattern from 'file.txt' using './fixtures' context",
+    "writing 'newFile.txt' from './fixtures/file.txt' to compilation assets...",
+    "written 'newFile.txt' from './fixtures/file.txt' to compilation assets",
+  ],
+}
+`;
+
+exports[`CopyPlugin stats should work have assets info: assets 1`] = `
+Object {
+  ".dottedfile": "dottedfile contents
+",
+  "asset-modules/deepnested.txt": "",
+  "directoryfile.txt": "new",
+  "nested/deep-nested/deepnested.txt": "",
+  "nested/nestedfile.txt": "",
+}
+`;
+
+exports[`CopyPlugin stats should work have assets info: assets info 1`] = `
+Array [
+  Object {
+    "info": Object {
+      "copied": true,
+      "immutable": undefined,
+      "sourceFilename": "directory/.dottedfile",
+    },
+    "name": ".dottedfile",
+  },
+  Object {
+    "info": Object {
+      "copied": undefined,
+      "immutable": undefined,
+      "sourceFilename": "directory/nested/deep-nested/deepnested.txt",
+    },
+    "name": "asset-modules/deepnested.txt",
+  },
+  Object {
+    "info": Object {
+      "copied": true,
+      "immutable": undefined,
+      "sourceFilename": "directory/directoryfile.txt",
+    },
+    "name": "directoryfile.txt",
+  },
+  Object {
+    "info": Object {
+      "copied": undefined,
+      "immutable": undefined,
+      "sourceFilename": undefined,
+    },
+    "name": "main.js",
+  },
+  Object {
+    "info": Object {
+      "copied": true,
+      "immutable": undefined,
+      "sourceFilename": "directory/nested/deep-nested/deepnested.txt",
+    },
+    "name": "nested/deep-nested/deepnested.txt",
+  },
+  Object {
+    "info": Object {
+      "copied": true,
+      "immutable": undefined,
+      "sourceFilename": "directory/nested/nestedfile.txt",
+    },
+    "name": "nested/nestedfile.txt",
+  },
+]
+`;
+
+exports[`CopyPlugin stats should work have assets info: errors 1`] = `Array []`;
+
+exports[`CopyPlugin stats should work have assets info: warnings 1`] = `Array []`;
