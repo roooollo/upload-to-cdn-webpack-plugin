@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "upload && compression assets to CDN",
   "license": "MIT",
-  "repository": "hejingguang/upload-to-cdn-webpack-plugin",
+  "repository": "roooollo/upload-to-cdn-webpack-plugin",
   "author": "Roollo",
-  "homepage": "https://github.com/hejingguang/upload-to-cdn-webpack-plugin",
-  "bugs": "https://github.com/hejingguang/upload-to-cdn-webpack-plugin/issues",
+  "homepage": "https://github.com/roooollo/upload-to-cdn-webpack-plugin",
+  "bugs": "https://github.com/roooollo/upload-to-cdn-webpack-plugin/issues",
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/webpack"
